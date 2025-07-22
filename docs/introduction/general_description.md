@@ -1,0 +1,51 @@
+---
+summary: Basic information about the Mitchell Bomber and its flight characteristics.
+date: 2025-07-21
+---
+
+# General Description
+
+![B-25 Bomber, front view, angled](../assets/images/mitchell_bomber_front_view_angled.png "Mitchell Bomber, front view, angled")
+
+![B-25 Bomber, back view, angled](../assets/images/mitchell_bomber_back_view_angled.png "Mitchell Bomber, back view, angled")
+
+![B-25 Bomber, side view](../assets/images/mitchell_bomber_side_view.png "Mitchell Bomber, side view")
+
+![B-25 Bomber, front view](../assets/images/mitchell_bomber_front_view.png "Mitchell Bomber, front view")
+
+The B-25 medium bomber is a high-speed, mid-wing land monoplane.
+
+Positive dihedral in the inner and negative dihedral in the outer wing panels give the plane a gull-wing appearance, while adding control and maneuverability.
+
+A twin tail section with large rudders increases stability and maneuverability and allows a greater concentration of firepower to the rear.
+
+![B-25 Bomber, twin tail section](../assets/images/mitchell_bomber_twin_tail_section.png "Mitchell Bomber, twin tail section")
+
+A tricycle landing gear adds to the case of landing, prevents groundlooping, and provides the pilot with maximum visibility during ground operation. It also permits a wide range of loading to obtain maximum bomb and weight carrying capacity.
+
+Under slung Wright R-2600 Cyclone engines drive Curtiss-Wright hydromatic propellers and deliver 1700 Hp each at full power.
+
+The fuselage is a semi-monocoque, four-longeron, stressed skin structure. The bombardier's, pilot's, and navigator's compartments are located in that order, forward of the bomb bay. The radio operator's, gunner's, and photographer's compartments are located in that order aft of the bomb bay.
+
+Each engine has individual self-sealing fuel and oil systems. Fuel transfer systems allow extra fuel, carried in fuselage tanks, to be transferred to the main system. There is a crossfeed in the fuel system for emergency operations.
+
+Two 24-volt batteries supply electric power for starting and initial operation. Two generators recharge the batteries and supply power when engine speed permits their operation. Each engine has a dual-ignition system.
+
+The B-25 has standard communication and bombardment equipment. Its armament is varied but follows AAF standards. Models of the plane have been converted for varying tactical needs by the addition of .50-cal. machine guns and the 75-mm. cannon.
+
+There are electrically driven power turrets on some models and a hydraulically driven tail turret on others.
+
+The plane has standard lighting, heating and hydraulic systems.
+
+![B-25 dimensions, top view](../assets/images/plane_dimensions_top_view.png "Plane dimensions, top view")
+*Blueprint of an airplane, as seen from above.*
+
+![B-25 dimensions, front view](../assets/images/plane_dimensions_front_view.png "Plane dimensions, front view")
+*Blueprint of an airplane, as seen directly head-on.*
+
+![B-25 dimensions, side view](../assets/images/plane_dimensions_side_view.png "Plane dimensions, side view")
+*Blueprint of an airplane, as seen from the side, with the nose facing left.*
+
+The airplane dimensions are: span 67 feet 6 inches, length 54 height 15 feet 9 inches.
+
+The airplane empty weighs approximately 20,300 lb.; loaded to maximum capacity, 35,500 lb.
