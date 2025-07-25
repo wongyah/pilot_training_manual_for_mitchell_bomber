@@ -5,7 +5,7 @@ date: 2019-12-31
 
 # Rules to Be Enforced on Every Flight
 
-![Warning: Do not smoke below 1000 feet!](../assets/images/cartoon-no_smoking_under_1000_feet.png "No smoking under 1000 feet!")
+![Warning: Do not smoke below 1000 feet!][img_cartoon-no_smoking_under_1000_feet]
 
 ## Smoking
 
@@ -46,3 +46,6 @@ date: 2019-12-31
 
 1. Assure yourself that all members of the crew are standing by their interphones at all times. **Insist on clear, well controlled voices. Speak slowly and clearly.**
 2. Require reports by interphone every 15 minutes from all crew members when on oxygen.
+
+<!-- links -->
+--8<-- "image_list.md:cartoon-no_smoking_under_1000_feet"

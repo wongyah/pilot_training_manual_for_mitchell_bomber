@@ -5,13 +5,13 @@ date: 2025-07-21
 
 # General Description
 
-![B-25 Bomber, front view, angled](../assets/images/mitchell_bomber_front_view_angled.png "Mitchell Bomber, front view, angled")
+![B-25 Bomber, front view, angled][img_mitchell_bomber_front_view_angled]
 
-![B-25 Bomber, back view, angled](../assets/images/mitchell_bomber_back_view_angled.png "Mitchell Bomber, back view, angled")
+![B-25 Bomber, back view, angled][img_mitchell_bomber_back_view_angled]
 
-![B-25 Bomber, side view](../assets/images/mitchell_bomber_side_view.png "Mitchell Bomber, side view")
+![B-25 Bomber, side view][img_mitchell_bomber_side_view]
 
-![B-25 Bomber, front view](../assets/images/mitchell_bomber_front_view.png "Mitchell Bomber, front view")
+![B-25 Bomber, front view][img_mitchell_bomber_front_view]
 
 The B-25 medium bomber is a high-speed, mid-wing land monoplane.
 
@@ -19,7 +19,7 @@ Positive dihedral in the inner and negative dihedral in the outer wing panels gi
 
 A twin tail section with large rudders increases stability and maneuverability and allows a greater concentration of firepower to the rear.
 
-![B-25 Bomber, twin tail section](../assets/images/mitchell_bomber_twin_tail_section.png "Mitchell Bomber, twin tail section")
+![B-25 Bomber, twin tail section][img_mitchell_bomber_twin_tail_section]
 
 A tricycle landing gear adds to the case of landing, prevents groundlooping, and provides the pilot with maximum visibility during ground operation. It also permits a wide range of loading to obtain maximum bomb and weight carrying capacity.
 
@@ -37,15 +37,22 @@ There are electrically driven power turrets on some models and a hydraulically d
 
 The plane has standard lighting, heating and hydraulic systems.
 
-![B-25 dimensions, top view](../assets/images/plane_dimensions_top_view.png "Plane dimensions, top view")
-*Blueprint of an airplane, as seen from above.*
+![B-25 dimensions, top view][img_plane_dimensions_top_view]
 
-![B-25 dimensions, front view](../assets/images/plane_dimensions_front_view.png "Plane dimensions, front view")
-*Blueprint of an airplane, as seen directly head-on.*
+![B-25 dimensions, front view][img_plane_dimensions_front_view]
 
-![B-25 dimensions, side view](../assets/images/plane_dimensions_side_view.png "Plane dimensions, side view")
-*Blueprint of an airplane, as seen from the side, with the nose facing left.*
+![B-25 dimensions, side view][img_plane_dimensions_side_view]
 
 The airplane dimensions are: span 67 feet 6 inches, length 54 height 15 feet 9 inches.
 
 The airplane empty weighs approximately 20,300 lb.; loaded to maximum capacity, 35,500 lb.
+
+<!-- links -->
+--8<-- "image_list.md:mitchell_bomber_front_view_angled"
+--8<-- "image_list.md:mitchell_bomber_back_view_angled"
+--8<-- "image_list.md:mitchell_bomber_side_view"
+--8<-- "image_list.md:mitchell_bomber_front_view"
+--8<-- "image_list.md:mitchell_bomber_twin_tail_section"
+--8<-- "image_list.md:plane_dimensions_top_view"
+--8<-- "image_list.md:plane_dimensions_front_view"
+--8<-- "image_list.md:plane_dimensions_side_view"

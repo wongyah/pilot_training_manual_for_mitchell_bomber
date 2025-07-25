@@ -5,7 +5,7 @@ date: 2019-12-31
 
 # The Engineer
 
-![The airplane engineer](../assets/images/preflight_general.png "The engineer")
+![The airplane engineer][img_preflight_general]
 
 Size up the man who is to be your engineer. This man should know more about the airplane you are to fly than any other member of the crew. If there are deficiencies in his training you may be able to fill them in.
 
@@ -26,3 +26,6 @@ Your engineer should be your chief source of information about the airplane. He 
 You, in turn, are his source of information about flying. Bear this in mind in all your discussions with the engineer. The more complete you can make his knowledge of the reasons behind every function of the equipment, the more valuable he will be as a member of the crew. Someday his extra knowledge may save the day in an emergency.
 
 Generally, in emergencies, the engineer is the man to whom you turn first. Build up his pride, his confidence, his knowledge. Know him personally; check on the extent of his knowledge. Make him a man upon whom you can rely.
+
+<!-- links -->
+--8<-- "image_list.md:preflight_general"

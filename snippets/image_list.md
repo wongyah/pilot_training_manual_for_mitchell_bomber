@@ -80,11 +80,11 @@
 # --8<--  [end:bomb_drop]
 
 # --8<-- [start:bombadier_nav]
-[img_bombadier_nav]: https://pic1.imgdb.cn/item/6880be8158cb8da5c8d088c9.png "The Bombardier-Navigator"
+[img_bombadier_nav]: https://pic1.imgdb.cn/item/6880be6c58cb8da5c8d0885d.png "The Bombardier-Navigator"
 # --8<--  [end:bombadier_nav]
 
 # --8<-- [start:bombardiers_compartment-left_side]
-[img_bombardiers_compartment-left_side]: https://pic1.imgdb.cn/item/6880be6a58cb8da5c8d08853.png
+[img_bombardiers_compartment-left_side]: https://pic1.imgdb.cn/item/6880be6a58cb8da5c8d08853.png "Bombardier's compartment, left side"
 # --8<--  [end:bombardiers_compartment-left_side]
 
 # --8<-- [start:brace]
@@ -344,7 +344,7 @@
 # --8<--  [end:how_to_jump]
 
 # --8<-- [start:hydraulic_hand_pump_and_emergency_brake_control]
-[img_hydraulic_hand_pump_and_emergency_brake_control]: https://pic1.imgdb.cn/item/6881ad1c58cb8da5c8d38243.png
+[img_hydraulic_hand_pump_and_emergency_brake_control]: https://pic1.imgdb.cn/item/6881ad1c58cb8da5c8d38243.png "Hydraulic hand pump and emergency brake control"
 # --8<--  [end:hydraulic_hand_pump_and_emergency_brake_control]
 
 # --8<-- [start:hydraulic_system]
@@ -528,7 +528,7 @@
 # --8<--  [end:mitchell_bombing_run]
 
 # --8<-- [start:navigators_compartment-front_view]
-[img_navigators_compartment-front_view]: https://pic1.imgdb.cn/item/68832e5958cb8da5c8db3a35.png
+[img_navigators_compartment-front_view]: https://pic1.imgdb.cn/item/68832e5958cb8da5c8db3a35.png "Navigator's compartment, front view"
 # --8<--  [end:navigators_compartment-front_view]
 
 # --8<-- [start:navigators_compartment-rear_view]
@@ -572,15 +572,15 @@
 # --8<--  [end:photographic_equipment]
 
 # --8<-- [start:pilots_compartment-general_forward_view]
-[img_pilots_compartment-general_forward_view]: https://pic1.imgdb.cn/item/68833a2f58cb8da5c8dbb7e3.png
+[img_pilots_compartment-general_forward_view]: https://pic1.imgdb.cn/item/68833a2f58cb8da5c8dbb7e3.png "Pilot's compartment, general forward view"
 # --8<--  [end:pilots_compartment-general_forward_view]
 
 # --8<-- [start:pilots_compartment-left-side]
-[img_pilots_compartment-left-side]: https://pic1.imgdb.cn/item/68833a2458cb8da5c8dbb767.png
+[img_pilots_compartment-left-side]: https://pic1.imgdb.cn/item/68833a2458cb8da5c8dbb767.png "Pilot's compartment, left side"
 # --8<--  [end:pilots_compartment-left-side]
 
 # --8<-- [start:pilots_compartment-right-side]
-[img_pilots_compartment-right-side]: https://pic1.imgdb.cn/item/68833ae258cb8da5c8dbc054.png
+[img_pilots_compartment-right-side]: https://pic1.imgdb.cn/item/68833ae258cb8da5c8dbc054.png "Pilot's compartment, right side"
 # --8<--  [end:pilots_compartment-right-side]
 
 # --8<-- [start:pilots_instrument_panel]
@@ -588,7 +588,7 @@
 # --8<--  [end:pilots_instrument_panel]
 
 # --8<-- [start:pilots_switch_panel_and_control_pedestal_panel]
-[img_pilots_switch_panel_and_control_pedestal_panel]: https://pic1.imgdb.cn/item/68833ae958cb8da5c8dbc09e.png
+[img_pilots_switch_panel_and_control_pedestal_panel]: https://pic1.imgdb.cn/item/68833ae958cb8da5c8dbc09e.png "Pilot's switch panel and control pedestal panel"
 # --8<--  [end:pilots_switch_panel_and_control_pedestal_panel]
 
 # --8<-- [start:plane_dimensions_front_view]
@@ -688,11 +688,11 @@
 # --8<--  [end:radio_operator]
 
 # --8<-- [start:radio_operators_compartment-forward_view]
-[img_radio_operators_compartment-forward_view]: https://pic1.imgdb.cn/item/68833cdc58cb8da5c8dbd903.png
+[img_radio_operators_compartment-forward_view]: https://pic1.imgdb.cn/item/68833cdc58cb8da5c8dbd903.png "Radio operator's compartment, forward view"
 # --8<--  [end:radio_operators_compartment-forward_view]
 
 # --8<-- [start:radio_operators_compartment-left_view]
-[img_radio_operators_compartment-left_view]: https://pic1.imgdb.cn/item/68833cde58cb8da5c8dbd910.png
+[img_radio_operators_compartment-left_view]: https://pic1.imgdb.cn/item/68833cde58cb8da5c8dbd910.png "Radio operator's compartment, left view"
 # --8<--  [end:radio_operators_compartment-left_view]
 
 # --8<-- [start:radio_sos]

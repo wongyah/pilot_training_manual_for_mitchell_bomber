@@ -5,7 +5,7 @@ date: 2025-07-21
 
 # The Bombardier-Navigator
 
-![Bombardier-Navigator](../assets/images/bombadier_nav.png "The Bombardier-Navigator")
+![Bombardier-Navigator][img_bombadier_nav]
 
 As a navigator it is the bombardier-navigator's job to direct your flight from departure to destination and return. He must know the exact position of the airplane at all times. For you to understand how to get the most reliable service from your navigator, you must know as much about his job as possible.
 
@@ -89,6 +89,10 @@ The bombardier should be familiar with the duties of all members of the crew.
 
 To enable the bombardier to do his job, you must place the airplane in the proper position to arrive at a point from which he can release his bombs to hit the target.
 
-![Mitchell dropping bombs](../assets/images/bomb_drop.png "B-25 dropping bombs")
+![Mitchell dropping bombs][img_bomb_drop]
 
 Unless the pilot performs his part of the bombing run correctly, even the best bombardier in the world cannot bomb accurately.
+
+<!-- links -->
+--8<-- "image_list.md:bombadier_nav"
+--8<-- "image_list.md:bomb_drop"

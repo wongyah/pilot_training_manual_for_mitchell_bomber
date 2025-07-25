@@ -5,7 +5,7 @@ date: 2025-07-21
 
 # History of the Mitchell Bomber
 
-![Image of an airplane in flight](../assets/images/mitchell_bomber_flight_left.png "Mitchell Bomber in flight")
+![Image of an airplane in flight][img_mitchell_bomber_flight_left]
 
 Welcome to the Mitchell bomber!
 
@@ -28,7 +28,7 @@ Designed to carry a bomb load of 3500 lb. and a crew of five, it has operated ef
 
 Red-lined at 340 mph, cruising easily at 200 mph, the Mitchell, when emergencies have arisen, has exceeded 340 mph, with no disastrous effects.
 
-![Mitchell Bomber illustration of a bombing mission](../assets/images/mitchell_bombing_run.png "Mitchell Bomber on a bombing mission")
+![Mitchell Bomber illustration of a bombing mission][img_mitchell_bombing_run]
 
 Its low landing speed has been a boon to flyers who have had to operate from jungle strips and airfields blasted from mountain sides.
 
@@ -48,4 +48,9 @@ Package guns—two .50-cal mounted on each side of the fuselage and firing forwa
 
 The evolution of the Mitchell bomber does not end here. Every day, as experience mounts and new tactics develop, the B-25 proves its versatility, ready to run with the hare or hunt with the hounds—an airplane of which its pilots may well say: It does the job!
 
-![Mitchell Bomber Bomber lifting off from an aircraft carrier](../assets/images/carrier_takeoff.png "Mitchell Bomber taking off from an aircraft carrier")
+![Mitchell Bomber Bomber lifting off from an aircraft carrier][img_carrier_takeoff]
+
+<!-- links -->
+--8<-- "image_list.md:mitchell_bomber_flight_left"
+--8<-- "image_list.md:mitchell_bombing_run"
+--8<-- "image_list.md:carrier_takeoff"

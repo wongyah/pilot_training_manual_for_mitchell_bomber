@@ -5,7 +5,7 @@ date: 2025-07-21
 
 # The Gunners
 
-![The airplane gunner](../assets/images/gunner.png "The Gunners")
+![The airplane gunner][img_gunner]
 
 Your gunners belong to one of two distinct categories: turret gunners and flexible gunners.
 
@@ -24,3 +24,6 @@ During training flights, the gunners should be in their turrets, tracking with t
 Keep your gunners' interest alive at all times. Any form of competition among the gunners themselves should stimulate their interest.
 
 Finally, each gunner should fire the guns at each station to familiarize himself with the other positions.
+
+<!-- links -->
+--8<-- "image_list.md:gunner"

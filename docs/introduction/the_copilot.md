@@ -5,7 +5,7 @@ date: 2025-07-21
 
 # The Copilot
 
-![The co-pilot of the plane.](../assets/images/copilot.png "The Copilot")
+![The co-pilot of the plane.][img_copilot]
 
 The copilot is the executive officer—your chief assistant, understudy, and strong right arm.
 
@@ -34,3 +34,6 @@ Remember that the more proficient your co-pilot is as a pilot, the better able h
 Be sure that he is always allowed to do his share of the flying, in the copilot's seat, on takeoffs, landings, and on instruments.
 
 Bear in mind that the pilot in the right-hand seat of your airplane is preparing himself for an airplane commander's post too. Allow him every chance to develop his ability and to profit by your experience.
+
+<!-- links -->
+--8<-- "image_list.md:copilot"

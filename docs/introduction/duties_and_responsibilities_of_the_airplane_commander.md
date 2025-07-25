@@ -5,7 +5,7 @@ date: 2025-07-21
 
 # Duties and Responsibilities of the Airplane Commander
 
-![Mitchell Bomber air crew boarding their airplane](../assets/images/crew_boarding.png "Air crew boarding their Mitchell Bomber")
+![Mitchell Bomber air crew boarding their airplane][img_crew_boarding]
 
 The commander of the B-25 must be more than a pilot. As his title implies, he must be a leader of men—a leader in a special sense. He must not train his crew as automatons, but as a team which will use initiative and perform its tasks to one end only...the success of the mission.
 
@@ -27,7 +27,7 @@ Discipline in an air crew means that you are commanding respect and getting your
 
 A good way to develop the jitters about your plane and your crew is by keeping them at a distance, talking to them pompously, and by showing favoritism or uncertainty in your decisions.
 
-![Don't find yourself on the other side of a wall from your crewmates. You need to work effectively together.](../assets/images/crew_discipline.png "In a little while you'll find yourself working on one side of a 10-foot wall while your crew works on the other")
+![Don't find yourself on the other side of a wall from your crewmates. You need to work effectively together.][img_crew_discipline]
 
 On the other hand, you won't get discipline by dropping all distinctions between commander and crew and letting the waist gunner call you Joe.
 
@@ -44,3 +44,7 @@ What about your navigator? Does he know his job well enough to get you over that
 Is your bombardier sure that his equipment is in perfect condition? Has he remembered to warm up his bombsight to prevent fogging at the critical moment?
 
 You can't know the precise answers to all the questions involved in having your plane ready for action, but you can know most of the important questions. Learn enough about every man's job so that you can ask the right questions, and you'll find that your crew will be there with the right answers at the right time.
+
+<!-- links -->
+--8<-- "image_list.md:crew_boarding"
+--8<-- "image_list.md:crew_discipline"

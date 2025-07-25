@@ -67,6 +67,16 @@ nav:
     - introduction/the_gunners.md
     - introduction/rules_to_be_enforced_on_every_flight.md
     - introduction/general_description.md
+  - Location of controls:
+    - location-of-controls/bombardiers_compartment_left_side.md
+    - location-of-controls/pilots_compartment_general_forward_view.md
+    - location-of-controls/pilots_switch_panel_and_control_pedestal_panel.md
+    - location-of-controls/pilots_compartment_left_side.md
+    - location-of-controls/pilots_compartment_right_side.md
+    - location-of-controls/hydraulic_hand_pump_and_emergency_air_brake_control.md
+    - location-of-controls/navigators_compartment_forward_view.md
+    - location-of-controls/radio_operators_compartment_forward_view.md
+    - location-of-controls/radio_operators_compartment_left_side.md
 
 markdown_extensions:
   - nl2br
