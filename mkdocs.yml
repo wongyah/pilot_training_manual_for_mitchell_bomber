@@ -1,7 +1,7 @@
-site_name: 技术传播百态说
+site_name: TC Blabber
 theme:
   name: material
-  language: zh
+  language: en
   logo: assets/logo/logo_v3.svg
   favicon: assets/logo/favicon.ico
   palette:
@@ -77,6 +77,31 @@ nav:
     - location-of-controls/navigators_compartment_forward_view.md
     - location-of-controls/radio_operators_compartment_forward_view.md
     - location-of-controls/radio_operators_compartment_left_side.md
+  - equipment-and-instruments:
+    - equipment-and-instruments/power_plant.md
+    - equipment-and-instruments/air_induction_system.md
+    - equipment-and-instruments/fuel_system.md
+    - equipment-and-instruments/oil_system.md
+    - equipment-and-instruments/dual_ignition_system.md
+    - equipment-and-instruments/electrical_system.md
+    - equipment-and-instruments/b_25_lighting_equipment.md
+    - equipment-and-instruments/hamilton_hydromatic_propellers.md
+    - equipment-and-instruments/hydraulic_system.md
+    - equipment-and-instruments/LandingGear.md
+    - equipment-and-instruments/instruments.md
+    - equipment-and-instruments/automatic_pilot.md
+    - equipment-and-instruments/communication_equipment.md
+    - equipment-and-instruments/armament.md
+    - equipment-and-instruments/oxygen.md
+    - equipment-and-instruments/photographic_equipment.md
+    - equipment-and-instruments/models_and_changes.md
+    - equipment-and-instruments/comparison_equipment_chart.md
+    - equipment-and-instruments/fuel_system_operation.md
+    - equipment-and-instruments/operating_instructions_for_the_supercharger.md
+    - equipment-and-instruments/carburetor_air_heat.md
+    - equipment-and-instruments/carburetor_air_filter.md
+    - equipment-and-instruments/priming.md
+    - equipment-and-instruments/operating_the_autopilot.md
 
 markdown_extensions:
   - nl2br
@@ -84,6 +109,7 @@ markdown_extensions:
   - footnotes
   - def_list
   - attr_list
+  - md_in_html
   - admonition
   - pymdownx.caret
   - pymdownx.mark
@@ -95,6 +121,7 @@ markdown_extensions:
       linenums: true
       auto_title: true
   - pymdownx.blocks.html
+  - pymdownx.blocks.caption
   - pymdownx.snippets:
       base_path: snippets
 

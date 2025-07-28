@@ -8,51 +8,51 @@
 # --8<--  [end:air_crew]
 
 # --8<-- [start:air_induction_system]
-[img_air_induction_system]: https://pic1.imgdb.cn/item/6880ba2f58cb8da5c8d06a5c.png
+[img_air_induction_system]: https://pic1.imgdb.cn/item/6880ba2f58cb8da5c8d06a5c.png "Air induction system"
 # --8<--  [end:air_induction_system]
 
 # --8<-- [start:armament]
-[img_armament]: https://pic1.imgdb.cn/item/6880ba3658cb8da5c8d06a8c.png
+[img_armament]: https://pic1.imgdb.cn/item/6880ba3658cb8da5c8d06a8c.png "Armament"
 # --8<--  [end:armament]
 
 # --8<-- [start:auto_pilot]
-[img_auto_pilot]: https://pic1.imgdb.cn/item/6880ba3158cb8da5c8d06a6a.png
+[img_auto_pilot]: https://pic1.imgdb.cn/item/6880ba3158cb8da5c8d06a6a.png "The automatic pilot"
 # --8<--  [end:auto_pilot]
 
 # --8<-- [start:auto_pilot_level_flight_diag]
-[img_auto_pilot_level_flight_diag]: https://pic1.imgdb.cn/item/6880bc2258cb8da5c8d079ed.png
+[img_auto_pilot_level_flight_diag]: https://pic1.imgdb.cn/item/6880bc2258cb8da5c8d079ed.png "Auto pilot, level flight diagram"
 # --8<--  [end:auto_pilot_level_flight_diag]
 
 # --8<-- [start:auto_pilot_rough_air_diag]
-[img_auto_pilot_rough_air_diag]: https://pic1.imgdb.cn/item/6880bc2058cb8da5c8d079d6.png
+[img_auto_pilot_rough_air_diag]: https://pic1.imgdb.cn/item/6880bc2058cb8da5c8d079d6.png "Auto pilot, rough air diagram"
 # --8<--  [end:auto_pilot_rough_air_diag]
 
 # --8<-- [start:autopilot_bank_limits]
-[img_autopilot_bank_limits]: https://pic1.imgdb.cn/item/6880bc1d58cb8da5c8d079b6.png
+[img_autopilot_bank_limits]: https://pic1.imgdb.cn/item/6880bc1d58cb8da5c8d079b6.png "Autopilot banking operating limits"
 # --8<--  [end:autopilot_bank_limits]
 
 # --8<-- [start:autopilot_climb_limits]
-[img_autopilot_climb_limits]: https://pic1.imgdb.cn/item/6880bc1d58cb8da5c8d079bd.png
+[img_autopilot_climb_limits]: https://pic1.imgdb.cn/item/6880bc1d58cb8da5c8d079bd.png "Autopilot climbing or gliding operating limits"
 # --8<--  [end:autopilot_climb_limits]
 
 # --8<-- [start:autopilot_diag]
-[img_autopilot_diag]: https://pic1.imgdb.cn/item/6880bc2258cb8da5c8d079e9.png
+[img_autopilot_diag]: https://pic1.imgdb.cn/item/6880bc2258cb8da5c8d079e9.png "Operating the autopilot"
 # --8<--  [end:autopilot_diag]
 
 # --8<-- [start:B-25_CD_50-cal_nose_gun]
-[img_B-25_CD_50-cal_nose_gun]: https://pic1.imgdb.cn/item/6880bcd158cb8da5c8d07e91.png
+[img_B-25_CD_50-cal_nose_gun]: https://pic1.imgdb.cn/item/6880bcd158cb8da5c8d07e91.png "B-25 C and D 50-cal nose gun"
 # --8<--  [end:B-25_CD_50-cal_nose_gun]
 
 # --8<-- [start:B-25_G_nose_guns]
-[img_B-25_G_nose_guns]: https://pic1.imgdb.cn/item/6880bcd458cb8da5c8d07ea4.png
+[img_B-25_G_nose_guns]: https://pic1.imgdb.cn/item/6880bcd458cb8da5c8d07ea4.png "B-25 G nose guns"
 # --8<--  [end:B-25_G_nose_guns]
 
 # --8<-- [start:B-25_H_nose_guns]
-[img_B-25_H_nose_guns]: https://pic1.imgdb.cn/item/6880bcbf58cb8da5c8d07e20.png
+[img_B-25_H_nose_guns]: https://pic1.imgdb.cn/item/6880bcbf58cb8da5c8d07e20.png "B-25 H nose guns"
 # --8<--  [end:B-25_H_nose_guns]
 
 # --8<-- [start:B-25_J_gun_locations]
-[img_B-25_J_gun_locations]: https://pic1.imgdb.cn/item/6880bcda58cb8da5c8d07eca.png
+[img_B-25_J_gun_locations]: https://pic1.imgdb.cn/item/6880bcda58cb8da5c8d07eca.png "B-25 J gun locations"
 # --8<--  [end:B-25_J_gun_locations]
 
 # --8<-- [start:B-25_tactical_uses]
@@ -68,7 +68,7 @@
 # --8<--  [end:bailout]
 
 # --8<-- [start:bomb_bay]
-[img_bomb_bay]: https://pic1.imgdb.cn/item/6880bd8658cb8da5c8d082e7.png
+[img_bomb_bay]: https://pic1.imgdb.cn/item/6880bd8658cb8da5c8d082e7.png "Bomb bay"
 # --8<--  [end:bomb_bay]
 
 # --8<-- [start:bomb_control_panel]
@@ -96,7 +96,7 @@
 # --8<--  [end:carb_deicer_system]
 
 # --8<-- [start:carburetor_air_flow]
-[img_carburetor_air_flow]: https://pic1.imgdb.cn/item/6880be5658cb8da5c8d087cb.png
+[img_carburetor_air_flow]: https://pic1.imgdb.cn/item/6880be5658cb8da5c8d087cb.png "Carburetor air flow"
 # --8<--  [end:carburetor_air_flow]
 
 # --8<-- [start:carrier_takeoff]
@@ -124,11 +124,11 @@
 # --8<--  [end:cold_weather_ops]
 
 # --8<-- [start:communication_equipment]
-[img_communication_equipment]: https://pic1.imgdb.cn/item/6880bfaf58cb8da5c8d08ee8.png
+[img_communication_equipment]: https://pic1.imgdb.cn/item/6880bfaf58cb8da5c8d08ee8.png "Communication equipment"
 # --8<--  [end:communication_equipment]
 
 # --8<-- [start:constant_speed_control]
-[img_constant_speed_control]: https://pic1.imgdb.cn/item/6880bfab58cb8da5c8d08ed3.png
+[img_constant_speed_control]: https://pic1.imgdb.cn/item/6880bfab58cb8da5c8d08ed3.png "Constant-speed control"
 # --8<--  [end:constant_speed_control]
 
 # --8<-- [start:copilot]
@@ -224,7 +224,7 @@
 # --8<--  [end:engine_heating_system]
 
 # --8<-- [start:feathering]
-[img_feathering]: https://pic1.imgdb.cn/item/6881aa4258cb8da5c8d369d2.png
+[img_feathering]: https://pic1.imgdb.cn/item/6881aa4258cb8da5c8d369d2.png "Feathering the propeller"
 # --8<--  [end:feathering]
 
 # --8<-- [start:fire_in_flight]
@@ -260,11 +260,11 @@
 # --8<--  [end:formation_takeoff_landing]
 
 # --8<-- [start:fuel_aux_transfer]
-[img_fuel_aux_transfer]: https://pic1.imgdb.cn/item/6881ab5258cb8da5c8d375e8.png
+[img_fuel_aux_transfer]: https://pic1.imgdb.cn/item/6881ab5258cb8da5c8d375e8.png "Auxiliary fuel transfer"
 # --8<--  [end:fuel_aux_transfer]
 
 # --8<-- [start:fuel_cell_location]
-[img_fuel_cell_location]: https://pic1.imgdb.cn/item/6881ab4358cb8da5c8d375bc.png
+[img_fuel_cell_location]: https://pic1.imgdb.cn/item/6881ab4358cb8da5c8d375bc.png "Fuel cell location"
 # --8<--  [end:fuel_cell_location]
 
 # --8<-- [start:fuel_combust_temps]
@@ -304,11 +304,11 @@
 # --8<--  [end:fuel_rpm_mp_relation]
 
 # --8<-- [start:fuel_system_normal_ops]
-[img_fuel_system_normal_ops]: https://pic1.imgdb.cn/item/6881ac1958cb8da5c8d37d7f.png
+[img_fuel_system_normal_ops]: https://pic1.imgdb.cn/item/6881ac1958cb8da5c8d37d7f.png "Normal operation"
 # --8<--  [end:fuel_system_normal_ops]
 
 # --8<-- [start:fuel_system]
-[img_fuel_system]: https://pic1.imgdb.cn/item/6881ac2a58cb8da5c8d37e1a.png
+[img_fuel_system]: https://pic1.imgdb.cn/item/6881ac2a58cb8da5c8d37e1a.png "Fuel system"
 # --8<--  [end:fuel_system]
 
 # --8<-- [start:fuel_tanks_one_side_to_both_engines]
@@ -328,15 +328,15 @@
 # --8<--  [end:gunner]
 
 # --8<-- [start:hamilton_hydromatic_props]
-[img_hamilton_hydromatic_props]: https://pic1.imgdb.cn/item/6881ac8c58cb8da5c8d38002.png
+[img_hamilton_hydromatic_props]: https://pic1.imgdb.cn/item/6881ac8c58cb8da5c8d38002.png "Hamilton hydromatic props"
 # --8<--  [end:hamilton_hydromatic_props]
 
 # --8<-- [start:high_blower_to_low_blower]
-[img_high_blower_to_low_blower]: https://pic1.imgdb.cn/item/6881ac7958cb8da5c8d37fb5.png
+[img_high_blower_to_low_blower]: https://pic1.imgdb.cn/item/6881ac7958cb8da5c8d37fb5.png "Shifting the supercharger up"
 # --8<--  [end:high_blower_to_low_blower]
 
 # --8<-- [start:holley_carburetor]
-[img_holley_carburetor]: https://pic1.imgdb.cn/item/6881ac9358cb8da5c8d3801f.png
+[img_holley_carburetor]: https://pic1.imgdb.cn/item/6881ac9358cb8da5c8d3801f.png "The Holley Carburetor"
 # --8<--  [end:holley_carburetor]
 
 # --8<-- [start:how_to_jump]
@@ -348,7 +348,7 @@
 # --8<--  [end:hydraulic_hand_pump_and_emergency_brake_control]
 
 # --8<-- [start:hydraulic_system]
-[img_hydraulic_system]: https://pic1.imgdb.cn/item/6881ad2158cb8da5c8d3825b.png
+[img_hydraulic_system]: https://pic1.imgdb.cn/item/6881ad2158cb8da5c8d3825b.png "Hydraulic system"
 # --8<--  [end:hydraulic_system]
 
 # --8<-- [start:inspections_and_checks]
@@ -356,7 +356,7 @@
 # --8<--  [end:inspections_and_checks]
 
 # --8<-- [start:interphone_jack_box]
-[img_interphone_jack_box]: https://pic1.imgdb.cn/item/6881ad2158cb8da5c8d3825a.png
+[img_interphone_jack_box]: https://pic1.imgdb.cn/item/6881ad2158cb8da5c8d3825a.png "Interphone jack box"
 # --8<--  [end:interphone_jack_box]
 
 # --8<-- [start:jettison_loose_equip]
@@ -400,31 +400,31 @@
 # --8<--  [end:landing_ditch_tail_low_full_flaps]
 
 # --8<-- [start:landing_gear]
-[img_landing_gear]: https://pic1.imgdb.cn/item/6883292758cb8da5c8dae0e1.png
+[img_landing_gear]: https://pic1.imgdb.cn/item/6883292758cb8da5c8dae0e1.png "Landing wheels retracting as the B-25 takes off"
 # --8<--  [end:landing_gear]
 
 # --8<-- [start:landing_gear_control]
-[img_landing_gear_control]: https://pic1.imgdb.cn/item/6883292258cb8da5c8dae058.png
+[img_landing_gear_control]: https://pic1.imgdb.cn/item/6883292258cb8da5c8dae058.png "Landing gear mechanism locked in place when handle is in the DOWN position"
 # --8<--  [end:landing_gear_control]
 
 # --8<-- [start:landing_gear_control_locking]
-[img_landing_gear_control_locking]: https://pic1.imgdb.cn/item/6883292358cb8da5c8dae07b.png
+[img_landing_gear_control_locking]: https://pic1.imgdb.cn/item/6883292358cb8da5c8dae07b.png "Locking plate for landing gear mechanism"
 # --8<--  [end:landing_gear_control_locking]
 
 # --8<-- [start:landing_gear_ind_down_locked_flaps_45deg]
-[img_landing_gear_ind_down_locked_flaps_45deg]: https://pic1.imgdb.cn/item/6883292358cb8da5c8dae075.png
+[img_landing_gear_ind_down_locked_flaps_45deg]: https://pic1.imgdb.cn/item/6883292358cb8da5c8dae075.png "Instrument indicating that the landing gear down and locked, flaps 45deg"
 # --8<--  [end:landing_gear_ind_down_locked_flaps_45deg]
 
 # --8<-- [start:landing_gear_ind_down_not_locked_flaps_15deg]
-[img_landing_gear_ind_down_not_locked_flaps_15deg]: https://pic1.imgdb.cn/item/6883292258cb8da5c8dae064.png
+[img_landing_gear_ind_down_not_locked_flaps_15deg]: https://pic1.imgdb.cn/item/6883292258cb8da5c8dae064.png "Instrument indicating that the landing gear is down but not locked, flaps 15deg"
 # --8<--  [end:landing_gear_ind_down_not_locked_flaps_15deg]
 
 # --8<-- [start:landing_gear_ind_part_down_flaps_15deg]
-[img_landing_gear_ind_part_down_flaps_15deg]: https://pic1.imgdb.cn/item/68832a1758cb8da5c8dafbf7.png
+[img_landing_gear_ind_part_down_flaps_15deg]: https://pic1.imgdb.cn/item/68832a1758cb8da5c8dafbf7.png "Instrument indicating that the landing gear is part down, flaps 15deg"
 # --8<--  [end:landing_gear_ind_part_down_flaps_15deg]
 
 # --8<-- [start:landing_gear_ind_up_locked_flaps_up]
-[img_landing_gear_ind_up_locked_flaps_up]: https://pic1.imgdb.cn/item/68832a1858cb8da5c8dafc0d.png
+[img_landing_gear_ind_up_locked_flaps_up]: https://pic1.imgdb.cn/item/68832a1858cb8da5c8dafc0d.png "Instrument indicating that landing gear is up and locked, flaps up"
 # --8<--  [end:landing_gear_ind_up_locked_flaps_up]
 
 # --8<-- [start:landing_gear_selsyn]
@@ -448,7 +448,7 @@
 # --8<--  [end:landing_go_around_raise_flap_15deg]
 
 # --8<-- [start:landing_lights]
-[img_landing_lights]: https://pic1.imgdb.cn/item/68832c8958cb8da5c8db2be8.png
+[img_landing_lights]: https://pic1.imgdb.cn/item/68832c8958cb8da5c8db2be8.png "Landing lights"
 # --8<--  [end:landing_lights]
 
 # --8<-- [start:landing_lower_nosewheel_slowly]
@@ -480,7 +480,7 @@
 # --8<--  [end:landing_traffic_pattern]
 
 # --8<-- [start:liaison_comm_set]
-[img_liaison_comm_set]: https://pic1.imgdb.cn/item/68832d3a58cb8da5c8db3286.png
+[img_liaison_comm_set]: https://pic1.imgdb.cn/item/68832d3a58cb8da5c8db3286.png "Liaison comm set"
 # --8<--  [end:liaison_comm_set]
 
 # --8<-- [start:lighting_equipment]
@@ -488,7 +488,7 @@
 # --8<--  [end:lighting_equipment]
 
 # --8<-- [start:low_blower_to_high_blower]
-[img_low_blower_to_high_blower]: https://pic1.imgdb.cn/item/68832d3958cb8da5c8db3277.png
+[img_low_blower_to_high_blower]: https://pic1.imgdb.cn/item/68832d3958cb8da5c8db3277.png "Shifting the supercharger down"
 # --8<--  [end:low_blower_to_high_blower]
 
 # --8<-- [start:maintenance_check]
@@ -544,23 +544,23 @@
 # --8<--  [end:nosewheel_position_ind]
 
 # --8<-- [start:oil_system]
-[img_oil_system]: https://pic1.imgdb.cn/item/68832ed458cb8da5c8db3dc9.png
+[img_oil_system]: https://pic1.imgdb.cn/item/68832ed458cb8da5c8db3dc9.png "Oil system"
 # --8<--  [end:oil_system]
 
 # --8<-- [start:oxygen_mask]
-[img_oxygen_mask]: https://pic1.imgdb.cn/item/68832ed458cb8da5c8db3dca.png
+[img_oxygen_mask]: https://pic1.imgdb.cn/item/68832ed458cb8da5c8db3dca.png "Oxygen mask"
 # --8<--  [end:oxygen_mask]
 
 # --8<-- [start:oxygen_portable_unit]
-[img_oxygen_portable_unit]: https://pic1.imgdb.cn/item/68832ed458cb8da5c8db3dc6.png
+[img_oxygen_portable_unit]: https://pic1.imgdb.cn/item/68832ed458cb8da5c8db3dc6.png "Portable oxygen unit"
 # --8<--  [end:oxygen_portable_unit]
 
 # --8<-- [start:oxygen_regulator]
-[img_oxygen_regulator]: https://pic1.imgdb.cn/item/68832ed358cb8da5c8db3dc2.png
+[img_oxygen_regulator]: https://pic1.imgdb.cn/item/68832ed358cb8da5c8db3dc2.png "Oxygen regulator"
 # --8<--  [end:oxygen_regulator]
 
 # --8<-- [start:oxygen_regulator_location]
-[img_oxygen_regulator_location]: https://pic1.imgdb.cn/item/68833a3258cb8da5c8dbb7fc.png
+[img_oxygen_regulator_location]: https://pic1.imgdb.cn/item/68833a3258cb8da5c8dbb7fc.png "Oxygen Regulators"
 # --8<--  [end:oxygen_regulator_location]
 
 # --8<-- [start:parking]
@@ -568,7 +568,7 @@
 # --8<--  [end:parking]
 
 # --8<-- [start:photographic_equipment]
-[img_photographic_equipment]: https://pic1.imgdb.cn/item/68833a2b58cb8da5c8dbb7bd.png
+[img_photographic_equipment]: https://pic1.imgdb.cn/item/68833a2b58cb8da5c8dbb7bd.png "Photographic equipment"
 # --8<--  [end:photographic_equipment]
 
 # --8<-- [start:pilots_compartment-general_forward_view]
@@ -612,7 +612,7 @@
 # --8<--  [end:power_increase_rpm]
 
 # --8<-- [start:power_plant]
-[img_power_plant]: https://pic1.imgdb.cn/item/68833b7458cb8da5c8dbc61d.png
+[img_power_plant]: https://pic1.imgdb.cn/item/68833b7458cb8da5c8dbc61d.png "Power plant"
 # --8<--  [end:power_plant]
 
 # --8<-- [start:power_reduce_manifold]
@@ -680,7 +680,7 @@
 # --8<--  [end:preflight_valves]
 
 # --8<-- [start:radio_compass_receiver]
-[img_radio_compass_receiver]: https://pic1.imgdb.cn/item/68833cd858cb8da5c8dbd8d1.png
+[img_radio_compass_receiver]: https://pic1.imgdb.cn/item/68833cd858cb8da5c8dbd8d1.png "Radio Compass Receiver"
 # --8<--  [end:radio_compass_receiver]
 
 # --8<-- [start:radio_operator]
@@ -772,7 +772,7 @@
 # --8<--  [end:startup_ignition]
 
 # --8<-- [start:storage_battery]
-[img_storage_battery]: https://pic1.imgdb.cn/item/68833f2f58cb8da5c8dbeccd.png
+[img_storage_battery]: https://pic1.imgdb.cn/item/68833f2f58cb8da5c8dbeccd.png "Battery"
 # --8<--  [end:storage_battery]
 
 # --8<-- [start:surface_deicer_system]
