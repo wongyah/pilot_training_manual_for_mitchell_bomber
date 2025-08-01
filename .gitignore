@@ -34,4 +34,4 @@ topics/
 *.ditamap
 *.dita
 gl_GUMPS.md
-index.md
+/index.md

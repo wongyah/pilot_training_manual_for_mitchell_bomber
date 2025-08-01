@@ -1,6 +1,5 @@
 ---
 summary: Information on the operational history of the Mitchell Bomber.
-date: 2025-07-21
 ---
 
 # History of the Mitchell Bomber
@@ -16,7 +15,9 @@ You are going to fly a champ with a long line of firsts to her credit:
 - First medium bomber to fly from a carrier deck.
 - First warplane to pack a 75-mm. cannon.
 
-It all started when the Army asked for designs of a medium bomber to be submitted. That was on 25 January 1939. Forty days later the B-25 was born! Daughter of a slide rule, with neither windtunnel tests nor prototypes to study, the performance of the B-25 was a series of figures on an engineer's drawing board.
+It all started when the Army asked for designs of a medium bomber to be submitted. That was on 25 January, 1939. Forty days later the B-25 was born!
+
+Daughter of a slide rule, with neither wind-tunnel tests nor prototypes to study, the performance of the B-25 was a series of figures on an engineer's drawing board.
 
 Yet, 19 days after Hitler marched into Poland, in September, 1939, the Army awarded the North American Aviation Company a contract for 148 Mitchell bombers, one of the largest orders written up to that time.
 
