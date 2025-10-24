@@ -67,6 +67,7 @@ nav:
   - 简介:
     - introduction/index.md
     - 历史: introduction/history_of_the_mitchell_bomber.md
+    - introduction/duties_and_responsibilities_of_the_airplane_commander.md
 
 markdown_extensions:
   - nl2br
