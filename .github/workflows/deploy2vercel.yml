@@ -3,12 +3,12 @@ name: Deploy Materials to Vercel
 on:
   push:
     paths:
-      - docs/**
-      - snippets/**
-      - overrides/**
-      - mkdocs.yml
-      - requirements.txt
       - .github/workflows/deploy2vercel.yml
+      - config/**
+      - docs/**
+      - overrides/**
+      - snippets/**
+      - requirements.txt
 
   workflow_dispatch:
 
@@ -29,7 +29,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Build Documentation
-        run: mkdocs build
+        run: |
+          mkdocs build -f config/en/mkdocs.yml
+          mkdocs build -f config/zh/mkdocs.yml
 
       - name: Deploy to Vercel
         run: npx vercel --token ${{ secrets.VERCEL_TOKEN }} --prod

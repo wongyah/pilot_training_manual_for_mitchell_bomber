@@ -2,11 +2,11 @@ name: Deploy Materials to Github Pages
 on:
   push:
     paths:
-      - docs/**
-      - snippets/**
-      - overrides/**
-      - mkdocs.yml
       - .github/workflows/deploy2ghpages.yml
+      - config/**
+      - docs/**
+      - overrides/**
+      - snippets/**
 permissions:
   contents: write
 jobs:
