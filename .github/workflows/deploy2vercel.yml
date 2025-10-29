@@ -33,9 +33,16 @@ jobs:
           mkdocs build -f config/en/mkdocs.yml
           mkdocs build -f config/zh/mkdocs.yml
 
-      - name: Deploy to Vercel
+      - name: Deploy to Vercel (English)
         run: npx vercel --token ${{ secrets.VERCEL_TOKEN }} --prod
-        working-directory: site
+        working-directory: site/en
+        env:  
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+
+      - name: Deploy to Vercel (Chinese)
+        run: npx vercel --token ${{ secrets.VERCEL_TOKEN }} --prod
+        working-directory: site/zh
         env:  
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
