@@ -32,6 +32,7 @@ jobs:
         run: |
           mkdocs build -f config/en/mkdocs.yml
           mkdocs build -f config/zh/mkdocs.yml
+          ls -la site/
 
       - name: Deploy to Vercel (English)
         run: npx vercel --token ${{ secrets.VERCEL_TOKEN }} --prod
